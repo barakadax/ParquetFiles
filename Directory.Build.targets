@@ -1,0 +1,6 @@
+<Project>
+  <ItemGroup>
+    <PackageReference Update="CsvHelper" Version="30.0.1" />
+    <PackageReference Update="Parquet.Net" Version="4.22.1" />
+  </ItemGroup>
+</Project>

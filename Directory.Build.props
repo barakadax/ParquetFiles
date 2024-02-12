@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding= "utf-8"?>
+<Project>
+  <PropertyGroup>
+    <Company>Barakadax</Company>
+    <Copyright>GNU Affero General Public License v3.0</Copyright>
+    <Product>CSV to Parquet example</Product>
+    <Description>Ways to transfar CSV files to Parquet files</Description>
+    <VersionPrefix>1.0.0</VersionPrefix>
+    <TargetFramework>net8.0</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>latest</LangVersion>
+    <RuntimeIdentifiers>win;linux</RuntimeIdentifiers>
+  </PropertyGroup>
+</Project>
